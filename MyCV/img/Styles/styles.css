@@ -1,0 +1,143 @@
+body {background-color: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Right section styles */
+
+.right-section{
+   padding-left: 90px;
+   background-color: #fff;
+}
+
+.about-me-section {
+   font-size: 14px;
+   color: black;
+   padding-bottom: 15px;
+   padding-top: 15px;
+   padding-right: 15px;
+   margin-bottom: 50px;
+   width: 400px;
+}
+
+.main-section {
+   display: flex;
+   flex-direction: row-reverse;
+   width: 1200px;
+   margin: 40px auto;
+}
+
+.about-me-section {
+   padding-top: 15px;
+   padding-right: 15px;
+   width: 400px; 
+}
+
+.about-me-section p {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+}
+
+.project-section {
+   margin-top: 40px;
+   margin: 40px 0 0 0;
+}
+
+.project-section { 
+   padding-left: 90px;
+   background-color: #fff; 
+}
+
+.about-me-profession {
+   color: black;
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 17px;  
+   margin-top: 100px;
+}
+
+#personName {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 45px;
+   line-height: 55px;
+   margin-top: 30px;
+}
+   
+
+
+/* Sidebar styles */
+
+.work-experience-section {
+   background-color: rgb(255, 255, 255);
+}
+
+.sidebar-section {
+       background-color: #E0EBFE;
+       width: 370px;
+}
+
+.sidebar-section img {
+   margin-top: 40px;
+}
+
+.education-section {
+   background-color:  #FFFFFF;
+}
+
+.sidebar-title {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 22px;
+   line-height: 27px;
+   color: #000000
+}
+
+.contact-section, .tech-skills-section{
+   margin-left: 5px;
+}
+
+.contacts-section-value {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 24px;
+   color: black;
+   margin-right: 10px;
+}
+.contacts-section-value {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+   color: #3a4352;
+}
+
+.contacts-section-link {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 24px;
+   color: #3a4352;
+}
+
+.sidebar-list {
+   color: #6D9BF5;
+}
+
+.sidebar-list span {
+   font-family: 'Montserrat';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 24px;;
+}
